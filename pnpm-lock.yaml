@@ -116,8 +116,8 @@ devDependencies:
     specifier: ^5.0.0
     version: 5.1.0
   delay:
-    specifier: ^5.0.0
-    version: 5.0.0
+    specifier: ^6.0.0
+    version: 6.0.0
   husky:
     specifier: ^8.0.2
     version: 8.0.3
@@ -1663,9 +1663,9 @@ packages:
       slash: 4.0.0
     dev: true
 
-  /delay@5.0.0:
-    resolution: {integrity: sha512-ReEBKkIfe4ya47wlPYf/gu5ib6yUG0/Aez0JQZQz94kiWtRQvZIQbTiehsnwHvLSWJnQdhVeqYue7Id1dKr0qw==}
-    engines: {node: '>=10'}
+  /delay@6.0.0:
+    resolution: {integrity: sha512-2NJozoOHQ4NuZuVIr5CWd0iiLVIRSDepakaovIN+9eIDHEhdCAEvSy2cuf1DCrPPQLvHmbqTHODlhHg8UCy4zw==}
+    engines: {node: '>=16'}
     dev: true
 
   /delayed-stream@1.0.0:
