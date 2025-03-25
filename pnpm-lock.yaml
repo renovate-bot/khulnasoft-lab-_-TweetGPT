@@ -108,7 +108,7 @@ devDependencies:
     version: 18.18.0
   '@types/rmfr':
     specifier: ^2.0.1
-    version: 2.0.2
+    version: 2.0.5
   ava:
     specifier: ^5.1.0
     version: 5.3.1
@@ -832,8 +832,8 @@ packages:
       '@types/node': 18.18.0
     dev: true
 
-  /@types/rmfr@2.0.2:
-    resolution: {integrity: sha512-ceUvQ/3oEjQhitiZr4pVe5f2pF+fDqVFPxplDD9wHe+iPP1dTBHJ7gxnTPuc37JC2QRGfanW2veoLcx2t72u2g==}
+  /@types/rmfr@2.0.5:
+    resolution: {integrity: sha512-OmUZsxYZmOTny8OHuS5uJq4XrUuia7FVL6VV+NgDxx04UYGo5V9GL0+8Pc7YlbUNyY+ZfM27+SCqVyYvr7v9dA==}
     dependencies:
       '@types/rimraf': 2.0.5
     dev: true
