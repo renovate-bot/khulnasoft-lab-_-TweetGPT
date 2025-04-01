@@ -58,7 +58,7 @@ dependencies:
     version: 5.1.0
   p-timeout:
     specifier: ^6.0.0
-    version: 6.1.2
+    version: 6.1.4
   puppeteer:
     specifier: ^19.4.1
     version: 19.11.1(typescript@4.9.5)
@@ -1292,7 +1292,7 @@ packages:
       eventsource-parser: 1.1.1
       js-tiktoken: 1.0.7
       keyv: 4.5.4
-      p-timeout: 6.1.2
+      p-timeout: 6.1.4
       quick-lru: 6.1.2
       read-pkg-up: 9.1.0
       uuid: 9.0.1
@@ -3644,8 +3644,8 @@ packages:
     engines: {node: '>=12'}
     dev: true
 
-  /p-timeout@6.1.2:
-    resolution: {integrity: sha512-UbD77BuZ9Bc9aABo74gfXhNvzC9Tx7SxtHSh1fxvx3jTLLYvmVhiQZZrJzqqU0jKbN32kb5VOKiLEQI/3bIjgQ==}
+  /p-timeout@6.1.4:
+    resolution: {integrity: sha512-MyIV3ZA/PmyBN/ud8vV9XzwTrNtR4jFrObymZYnZqMmW0zA8Z17vnT0rBgFE/TlohB+YCHqXMgZzb3Csp49vqg==}
     engines: {node: '>=14.16'}
     dev: false
 
