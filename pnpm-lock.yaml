@@ -31,7 +31,7 @@ dependencies:
     version: 14.0.0
   highlight.js:
     specifier: ^11.7.0
-    version: 11.8.0
+    version: 11.11.1
   huggingface:
     specifier: ^1.3.0
     version: 1.4.0
@@ -2349,8 +2349,8 @@ packages:
     dependencies:
       function-bind: 1.1.1
 
-  /highlight.js@11.8.0:
-    resolution: {integrity: sha512-MedQhoqVdr0U6SSnWPzfiadUcDHfN/Wzq25AkXiQv9oiOO/sG0S7XkvpFIqWBl9Yq1UYyYOOVORs5UW2XlPyzg==}
+  /highlight.js@11.11.1:
+    resolution: {integrity: sha512-Xwwo44whKBVCYoliBQwaPvtd/2tYFkRQtXDWj1nackaV2JPXx3L0+Jvd8/qCJ2p+ML0/XVkJ2q+Mr+UVdpJK5w==}
     engines: {node: '>=12.0.0'}
     dev: false
 
